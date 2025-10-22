@@ -84,6 +84,7 @@ me.say_hi()
 
 [![Hybrid-ZFNet-Quantum-Neural-Network-for-Pneumonia-Detection](https://github-readme-stats.vercel.app/api/pin/?username=mforgo&repo=Hybrid-ZFNet-Quantum-Neural-Network-for-Pneumonia-Detection&theme=tokyonight&hide_border=true)](https://github.com/mforgo/Hybrid-ZFNet-Quantum-Neural-Network-for-Pneumonia-Detection)
 [![Quantum-procesor](https://github-readme-stats.vercel.app/api/pin/?username=mforgo&repo=pearl-quantum-procesor&theme=tokyonight&hide_border=true)](https://github.com/mforgo/pearl-quantum-procesor)
+[![Quantum-Examples](https://github-readme-stats.vercel.app/api/pin/?username=mforgo&repo=pearl-quantum-procesor&theme=tokyonight&hide_border=true)](https://github.com/mforgo/Quantum-Examples)
 
 </div>
 
