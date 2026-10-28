@@ -84,25 +84,6 @@ me.say_hi()
 - 🏅 Commended by the Czech Government Envoy for Quantum Technologies for early successful quantum computations at the university
 - 🌏 Top 3 delegate (out of 69) for a research visit and lecture at RIKEN, Japan; Top 100 National Next-Gen Tech Innovators (2026)
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mforgo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mforgo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
-</div>
-
-## Activity Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mforgo&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
 
 ---
 
